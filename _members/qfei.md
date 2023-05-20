@@ -1,11 +1,10 @@
 ---
-name: Sarah Johnson
+name: Qinqin Fei, PhD
 image: images/photo.jpg
-description: Lead Programmer
-role: programmer
+role: gs
 links:
   email: sarah.johnson@gmail.com
   twitter: sarahjohnson
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+I’m a PhD student in the College of Pharmacy at The Ohio State University. I earned my Bachelors degree in Biotechnology from the California State Polytechnic University. I then completed a Masters in Pharmaceutical Sciences from Western University of Health Sciences in 2018. During my Masters program I studied targeted nanoparticle delivery of therapeutics for pancreatic cancer.  I joined the  Englert Lab in 2019 and my research focuses on nanoparticle drug delivery to prevent and treat ventilator-induced lung injury in patients with ARDS. I recently successfully defended my doctoral dissertation and am planning to pursue a career in the pharmaceutical industry.
