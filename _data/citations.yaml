@@ -1,91 +1,580 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.1016/j.pupt.2023.102196
+  title: Pulmonary drug delivery for acute respiratory distress syndrome
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  - Qinqin Fei
+  - Ian Bentley
+  - Samir N. Ghadiali
+  - Joshua A. Englert
+  publisher: Pulmonary Pharmacology &amp; Therapeutics
+  date: '2023-04-01'
+  link: https://doi.org/grrbbf
+  orcid: 0000-0002-1257-2239
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.1101/2023.02.17.529007
+  title: Macrophage-targeted lipid nanoparticle delivery of microRNA-146a to mitigate
+    hemorrhagic shock-induced acute respiratory distress syndrome
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
+  - Qinqin Fei
+  - Emily M. Shalosky
+  - Ryelie Barnes
+  - Vasudha C. Shukla
+  - Megan N. Ballinger
+  - Laszlo Farkas
+  - Robert J. Lee
+  - Samir N. Ghadiali
+  - Joshua A. Englert
   publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  date: '2023-02-19'
+  link: https://doi.org/gr8v3n
+  orcid: 0000-0002-1257-2239
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.4049/jimmunol.2100994
+  title: PRMT5 in T Cells Drives Th17 Responses, Mixed Granulocytic Inflammation,
+    and Severe Allergic Airway Inflammation
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - Brandon W. Lewis
+  - Stephanie A. Amici
+  - Hye-Young Kim
+  - Emily M. Shalosky
+  - Aiman Q. Khan
+  - Joshua Walum
+  - Kymberly M. Gowdy
+  - Joshua A. Englert
+  - Ned A. Porter
+  - Mitchell H. Grayson
+  - Rodney D. Britt
+  - Mireia Guerau-de-Arellano
+  publisher: The Journal of Immunology
+  date: '2022-04-01'
+  link: https://doi.org/grrbbg
+  orcid: 0000-0002-1257-2239
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
+- id: doi:10.1101/2021.10.13.464281
+  title: PRMT5 in T cells drives Th17 responses, mixed granulocytic inflammation and
+    severe allergic airway inflammation
   authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2019-06-24'
-  link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
+  - Brandon W. Lewis
+  - Stephanie A. Amici
+  - Hye-Young Kim
+  - Emily Shalosky
+  - Aiman Khan
+  - Joshua Walum
+  - Kymberly M. Gowdy
+  - Joshua A. Englert
+  - Ned A. Porter
+  - Mitchell H. Grayson
+  - Rodney D. Britt
+  - Mireia Guerau-de-Arellano
   publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
+  date: '2021-10-14'
+  link: https://doi.org/grrbbh
+  orcid: 0000-0002-1257-2239
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1152/ajplung.00093.2021
+  title: 'Kidney-lung cross talk during ARDS: mitochondrial DAMPs join the conversation'
+  authors:
+  - Jack Varon
+  - Joshua A. Englert
+  publisher: American Journal of Physiology-Lung Cellular and Molecular Physiology
+  date: '2021-05-01'
+  link: https://doi.org/grrbbj
+  orcid: 0000-0002-1257-2239
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1164/rccm.202002-0285UP
+  title: Update in Critical Care 2019
+  authors:
+  - Yaseen M. Arabi
+  - Rama Mallampalli
+  - Joshua A. Englert
+  - Nicholas A. Bosch
+  - Allan J. Walkey
+  - Hasan M. Al-Dorzi
+  publisher: American Journal of Respiratory and Critical Care Medicine
+  date: '2020-05-01'
+  link: https://doi.org/grrbbk
+  orcid: 0000-0002-1257-2239
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s12931-019-0981-6
+  title: Whole blood RNA sequencing reveals a unique transcriptomic profile in patients
+    with ARDS following hematopoietic stem cell transplantation
+  authors:
+  - Joshua A. Englert
+  - Michael H. Cho
+  - Andrew E. Lamb
+  - Maya Shumyatcher
+  - Diana Barragan-Bradford
+  - Maria C. Basil
+  - Angelica Higuera
+  - Colleen Isabelle
+  - Mayra Pinilla Vera
+  - Paul B. Dieffenbach
+  - Laura E. Fredenburgh
+  - Joyce B. Kang
+  - Ami S. Bhatt
+  - Joseph H. Antin
+  - Vincent T. Ho
+  - Robert J. Soiffer
+  - Judie A. Howrylak
+  - Blanca E. Himes
+  - Rebecca M. Baron
+  publisher: Respiratory Research
+  date: '2019-01-21'
+  link: https://doi.org/grrbbm
+  orcid: 0000-0002-1257-2239
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1172/jci.insight.124710
+  title: Sirtuin 2 enhances allergic asthmatic inflammation
+  authors:
+  - Yong Gyu Lee
+  - Brenda F. Reader
+  - Derrick Herman
+  - Adam Streicher
+  - Joshua A. Englert
+  - Mathias Ziegler
+  - Sangwoon Chung
+  - Manjula Karpurapu
+  - Gye Young Park
+  - John W. Christman
+  - Megan N. Ballinger
+  publisher: JCI Insight
+  date: '2019-02-21'
+  link: https://doi.org/grrbbn
+  orcid: 0000-0002-1257-2239
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1513/AnnalsATS.201801-066CC
+  title: Bilateral Lung Masses and Dyspnea in a Young Woman
+  authors:
+  - Bryan R. Hay
+  - Konstantin Shilo
+  - Joshua A. Englert
+  publisher: Annals of the American Thoracic Society
+  date: '2018-07-01'
+  link: https://doi.org/grrbbp
+  orcid: 0000-0002-1257-2239
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1056/nejmcps1711048
+  title: An Unexpected Expectoration
+  authors:
+  - Jonathan D. Casey
+  - Joshua A. Englert
+  - Joel T. Katz
+  - Amy L. Miller
+  - Joseph Loscalzo
+  publisher: New England Journal of Medicine
+  date: '2018-03-01'
+  link: https://doi.org/grrbbq
+  orcid: 0000-0002-1257-2239
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41598-017-12044-9
+  title: Using a Novel Microfabricated Model of the Alveolar-Capillary Barrier to
+    Investigate the Effect of Matrix Structure on Atelectrauma
+  authors:
+  - N. Higuita-Castro
+  - M. T. Nelson
+  - V. Shukla
+  - P. A. Agudelo-Garcia
+  - W. Zhang
+  - S. M. Duarte-Sanmiguel
+  - J. A. Englert
+  - J. J. Lannutti
+  - D. J. Hansford
+  - S. N. Ghadiali
+  publisher: Scientific Reports
+  date: '2017-09-14'
+  link: https://doi.org/gbzqks
+  orcid: 0000-0002-1257-2239
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1172/jci.insight.86507
+  title: Zinc deficiency primes the lung for ventilator-induced injury
+  authors:
+  - Francis Boudreault
+  - Miguel Pinilla-Vera
+  - Joshua A. Englert
+  - Alvin T. Kho
+  - Colleen Isabelle
+  - Antonio J. Arciniegas
+  - Diana Barragan-Bradford
+  - Carolina Quintana
+  - Diana Amador-Munoz
+  - Jiazhen Guan
+  - Kyoung Moo Choi
+  - Lynette Sholl
+  - Shelley Hurwitz
+  - Daniel J. Tschumperlin
+  - Rebecca M. Baron
+  publisher: JCI Insight
+  date: '2017-06-02'
+  link: https://doi.org/gbgt9v
+  orcid: 0000-0002-1257-2239
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1097/ccm.0000000000002385
+  title: "Steroids and \u03B2-Agonists in Acute Respiratory Distress Syndrome"
+  authors:
+  - Joshua A. Englert
+  - Elliott D. Crouser
+  publisher: Critical Care Medicine
+  date: '2017-05-01'
+  link: https://doi.org/grrbbr
+  orcid: 0000-0002-1257-2239
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1152/ajprenal.00523.2016
+  title: Ventilator-induced lung injury increases expression of endothelial inflammatory
+    mediators in the kidney
+  authors:
+  - Mark Hepokoski
+  - Joshua A. Englert
+  - Rebecca M. Baron
+  - Laura E. Crotty-Alexander
+  - Mark M. Fuster
+  - Jeremy R. Beitler
+  - Atul Malhotra
+  - Prabhleen Singh
+  publisher: American Journal of Physiology-Renal Physiology
+  date: '2017-04-01'
+  link: https://doi.org/f923g8
+  orcid: 0000-0002-1257-2239
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1165/rcmb.2016-0061oc
+  title: Mesenchymal Stromal Cells Deficient in Autophagy Proteins Are Susceptible
+    to Oxidative Injury and Mitochondrial Dysfunction
+  authors:
+  - Sailaja Ghanta
+  - Konstantin Tsoyi
+  - Xiaoli Liu
+  - Kiichi Nakahira
+  - Bonna Ith
+  - Anna A. Coronata
+  - Laura E. Fredenburgh
+  - Joshua A. Englert
+  - Claude A. Piantadosi
+  - Augustine M. K. Choi
+  - Mark A. Perrella
+  publisher: American Journal of Respiratory Cell and Molecular Biology
+  date: '2017-03-01'
+  link: https://doi.org/f927gt
+  orcid: 0000-0002-1257-2239
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1164/rccm.201604-0818le
+  title: Interstitial Lung Abnormalities Are Associated with Acute Respiratory Distress
+    Syndrome
+  authors:
+  - Rachel K. Putman
+  - Gary M. Hunninghake
+  - Paul B. Dieffenbach
+  - Diana Barragan-Bradford
+  - Karolina Serhan
+  - Ursula Adams
+  - Hiroto Hatabu
+  - Mizuki Nishino
+  - Robert F. Padera
+  - Laura E. Fredenburgh
+  - Rebecca M. Baron
+  - Joshua A. Englert
+  publisher: American Journal of Respiratory and Critical Care Medicine
+  date: '2017-01-01'
+  link: https://doi.org/grrbbt
+  orcid: 0000-0002-1257-2239
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ccm.2016.01.011
+  title: Metabolism, Metabolomics, and Nutritional Support of Patients with Sepsis
+  authors:
+  - Joshua A. Englert
+  - Angela J. Rogers
+  publisher: Clinics in Chest Medicine
+  date: '2016-06-01'
+  link: https://doi.org/f8szxs
+  orcid: 0000-0002-1257-2239
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1039/c5lc01110h
+  title: Broad spectrum immunomodulation using biomimetic blood cell margination for
+    sepsis therapy
+  authors:
+  - Han Wei Hou
+  - Lidan Wu
+  - Diana P. Amador-Munoz
+  - Miguel Pinilla Vera
+  - Anna Coronata
+  - Joshua A. Englert
+  - Bruce D. Levy
+  - Rebecca M. Baron
+  - Jongyoon Han
+  publisher: Lab on a Chip
+  date: '2016-01-01'
+  link: https://doi.org/grrbbv
+  orcid: 0000-0002-1257-2239
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1097/aln.0000000000000742
+  title: Isoflurane Ameliorates Acute Lung Injury by Preserving Epithelial Tight Junction
+    Integrity
+  authors:
+  - Joshua A. Englert
+  - Alvaro A. Macias
+  - Diana Amador-Munoz
+  - Miguel Pinilla Vera
+  - Colleen Isabelle
+  - Jiazhen Guan
+  - Brady Magaoay
+  - Margarita Suarez Velandia
+  - Anna Coronata
+  - Awapuhi Lee
+  - Laura E. Fredenburgh
+  - Deborah J. Culley
+  - Gregory Crosby
+  - Rebecca M. Baron
+  publisher: Anesthesiology
+  date: '2015-08-01'
+  link: https://doi.org/f7wmvw
+  orcid: 0000-0002-1257-2239
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/ncomms5753
+  title: Circadian rhythm reprogramming during lung inflammation
+  authors:
+  - Jeffrey A. Haspel
+  - Sukrutha Chettimada
+  - Rahamthulla S. Shaik
+  - Jen-Hwa Chu
+  - Benjamin A. Raby
+  - Manuela Cernadas
+  - Vincent Carey
+  - Vanessa Process
+  - G. Matthew Hunninghake
+  - Emeka Ifedigbo
+  - James A. Lederer
+  - Joshua Englert
+  - Ashley Pelton
+  - Anna Coronata
+  - Laura E. Fredenburgh
+  - Augustine M.K. Choi
+  publisher: Nature Communications
+  date: '2014-09-11'
+  link: https://doi.org/f6j5b6
+  orcid: 0000-0002-1257-2239
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1165/rcmb.2011-0447oc
+  title: Chronic Endotoxin Exposure Produces Airflow Obstruction and Lung Dendritic
+    Cell Expansion
+  authors:
+  - Peggy S. Lai
+  - Jennifer M. Fresco
+  - Miguel A. Pinilla
+  - Alvaro A. Macias
+  - Ronald D. Brown
+  - Joshua A. Englert
+  - Oliver Hofmann
+  - James A. Lederer
+  - Winston Hide
+  - David C. Christiani
+  - Manuela Cernadas
+  - Rebecca M. Baron
+  publisher: American Journal of Respiratory Cell and Molecular Biology
+  date: '2012-08-01'
+  link: https://doi.org/f36j6j
+  orcid: 0000-0002-1257-2239
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.4049/jimmunol.1101186
+  title: Cyclooxygenase-2 Deficiency Leads to Intestinal Barrier Dysfunction and Increased
+    Mortality during Polymicrobial Sepsis
+  authors:
+  - Laura E. Fredenburgh
+  - "Margarita M. Su\xE1rez Velandia"
+  - Jun Ma
+  - Torsten Olszak
+  - Manuela Cernadas
+  - Joshua A. Englert
+  - Su Wol Chung
+  - Xiaoli Liu
+  - Cynthia Begay
+  - Robert F. Padera
+  - Richard S. Blumberg
+  - Stephen R. Walsh
+  - Rebecca M. Baron
+  - Mark A. Perrella
+  publisher: The Journal of Immunology
+  date: '2011-11-15'
+  link: https://doi.org/b2kpfg
+  orcid: 0000-0002-1257-2239
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.4161/auto.7.6.15100
+  title: Characterization of macroautophagic flux in vivo using a leupeptin-based
+    assay
+  authors:
+  - Jeffrey Haspel
+  - Rahamthulla S. Shaik
+  - Emeka Ifedigbo
+  - Kiichi Nakahira
+  - Tamas Dolinay
+  - Joshua A. Englert
+  - Augustine M.K. Choi
+  publisher: Autophagy
+  date: '2011-06-01'
+  link: https://doi.org/d9m4p8
+  orcid: 0000-0002-1257-2239
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/ni.1980
+  title: Autophagy proteins regulate innate immune responses by inhibiting the release
+    of mitochondrial DNA mediated by the NALP3 inflammasome
+  authors:
+  - Kiichi Nakahira
+  - Jeffrey Adam Haspel
+  - Vijay A K Rathinam
+  - Seon-Jin Lee
+  - Tamas Dolinay
+  - Hilaire C Lam
+  - Joshua A Englert
+  - Marlene Rabinovitch
+  - Manuela Cernadas
+  - Hong Pyo Kim
+  - Katherine A Fitzgerald
+  - Stefan W Ryter
+  - Augustine M K Choi
+  publisher: Nature Immunology
+  date: '2010-12-12'
+  link: https://doi.org/cj2q5z
+  orcid: 0000-0002-1257-2239
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1124/jpet.105.092841
+  title: The Phase 2 Enzyme Inducers Ethacrynic Acid, DL-Sulforaphane, and Oltipraz
+    Inhibit Lipopolysaccharide-Induced High-Mobility Group Box 1 Secretion by RAW
+    264.7 Cells
+  authors:
+  - Meaghan E. Killeen
+  - Joshua A. Englert
+  - Donna Beer Stolz
+  - Mingchen Song
+  - Yusheng Han
+  - Russell L. Delude
+  - John A. Kellum
+  - Mitchell P. Fink
+  publisher: Journal of Pharmacology and Experimental Therapeutics
+  date: '2005-12-28'
+  link: https://doi.org/b9bn8m
+  orcid: 0000-0002-1257-2239
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.2119/2006-00010.yang
+  title: Anti-HMGB1 Neutralizing Antibody Ameliorates Gut Barrier Dysfunction and
+    Improves Survival after Hemorrhagic Shock
+  authors:
+  - Runkuan Yang
+  - Tomoyuki Harada
+  - Kevin P. Mollen
+  - Jose M. Prince
+  - Ryan M. Levy
+  - Joshua A. Englert
+  - Margot Gallowitsch-Puerta
+  - LiHong Yang
+  - Huan Yang
+  - Kevin J. Tracey
+  - Brian G. Harbrecht
+  - Timothy R. Billiar
+  - Mitchell P. Fink
+  publisher: Molecular Medicine
+  date: '2006-04-01'
+  link: https://doi.org/dr6xs7
+  orcid: 0000-0002-1257-2239
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.bcp.2005.08.015
+  title: The ethyl pyruvate analogues, diethyl oxaloproprionate, 2-acetamidoacrylate,
+    and methyl-2-acetamidoacrylate, exhibit anti-inflammatory properties in vivo and/or
+    in vitro
+  authors:
+  - Penny L. Sappington
+  - Ruy J. Cruz
+  - Tomoyuki Harada
+  - Runkuan Yang
+  - Yusheng Han
+  - Joshua A. Englert
+  - Alfred A. Ajami
+  - Meaghan E. Killeen
+  - Russell L. Delude
+  - Mitchell P. Fink
+  publisher: Biochemical Pharmacology
+  date: '2005-11-01'
+  link: https://doi.org/ftr6q2
+  orcid: 0000-0002-1257-2239
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s11908-005-0006-0
+  title: The multiple organ dysfunction syndrome and late-phase mortality in sepsis
+  authors:
+  - Joshua A. Englert
+  - Mitchell P. Fink
+  publisher: Current Infectious Disease Reports
+  date: '2005-09-01'
+  link: https://doi.org/bptfb2
+  orcid: 0000-0002-1257-2239
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s00134-005-2601-9
+  title: Bile modulates intestinal epithelial barrier function via an extracellular
+    signal related kinase 1/2 dependent mechanism
+  authors:
+  - Runkuan Yang
+  - Tomoyuki Harada
+  - Jinyou Li
+  - Takashi Uchiyama
+  - Yusheng Han
+  - Joshua A. Englert
+  - Mitchell P. Fink
+  publisher: Intensive Care Medicine
+  date: '2005-03-22'
+  link: https://doi.org/cz44v4
+  orcid: 0000-0002-1257-2239
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1124/jpet.104.079707
+  title: "Ethyl Pyruvate Inhibits Nuclear Factor-\u03BAB-Dependent Signaling by Directly\
+    \ Targeting p65"
+  authors:
+  - Yusheng Han
+  - Joshua A. Englert
+  - Runkuan Yang
+  - Russell L. Delude
+  - Mitchell P. Fink
+  publisher: Journal of Pharmacology and Experimental Therapeutics
+  date: '2004-11-03'
+  link: https://doi.org/c2s5jn
+  orcid: 0000-0002-1257-2239
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1097/01.shk.0000150629.53699.3f
+  title: ETHACRYNIC ACID INHIBITS MULTIPLE STEPS IN THE NF-??B SIGNALING PATHWAY
+  authors:
+  - Yusheng Han
+  - Joshua A Englert
+  - Russell L Delude
+  - Mitchell P Fink
+  publisher: Shock
+  date: '2005-01-01'
+  link: https://doi.org/cqsjjg
+  orcid: 0000-0002-1257-2239
   plugin: orcid.py
   file: orcid.yaml
 - orcid: 0000-0002-1257-2239
