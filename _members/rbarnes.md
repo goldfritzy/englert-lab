@@ -1,6 +1,6 @@
 ---
 name: Ryelie Barnes
-image: images/photo.jpg
+image: images/members/rbarnes.webp
 role: ura
 links:
   email: sarah.johnson@gmail.com

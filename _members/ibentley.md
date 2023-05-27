@@ -1,6 +1,6 @@
 ---
 name: Ian Bentey, MD
-image: images/photo.jpg
+image: images/members/ibentley.webp
 role: pccf
 links:
   github: john-doe

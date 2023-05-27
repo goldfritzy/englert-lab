@@ -1,6 +1,6 @@
 ---
 name: Qinqin Fei, PhD
-image: images/photo.jpg
+image: images/members/qfei.webp
 role: gs
 links:
   email: sarah.johnson@gmail.com

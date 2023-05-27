@@ -1,6 +1,6 @@
 ---
 name: Jon Fritz
-image: images/photo.jpg
+image: images/members/jfritz.webp
 role: gs
 links:
   email: sarah.johnson@gmail.com

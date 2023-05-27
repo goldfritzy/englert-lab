@@ -1,6 +1,6 @@
 ---
 name: Joshua A. Englert, MD
-image: images/photo.jpg
+image: images/members/jenglert.webp
 role: pi
 aliases:
   - J. Englert

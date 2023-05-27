@@ -1,6 +1,6 @@
 ---
 name: Maya Langenecker
-image: images/photo.jpg
+image: images/members/mlangenecker.webp
 role: ra
 links:
   email: sarah.johnson@gmail.com
