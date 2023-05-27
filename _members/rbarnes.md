@@ -1,7 +1,7 @@
 ---
 name: Ryelie Barnes
 image: images/members/rbarnes.webp
-role: ura
+role: undergrad
 links:
   email: sarah.johnson@gmail.com
   twitter: sarahjohnson
