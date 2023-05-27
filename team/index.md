@@ -18,18 +18,24 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+## Funding
 
-{% include section.html %}
+Our work is made possible by funding from the following organizations.
+{:.center}
 
-{% capture content %}
+{%
+  include gallery.html
 
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
+  image1="images/funding/nih.webp"
+  link1="https://nih.gov/"
+  tooltip1="National Institutes of Health"
 
-{% endcapture %}
+  image2="images/funding/pelotonia.webp"
+  link2="https://cancer.osu.edu/for-cancer-researchers/research/research-institutes-and-centers/pelotonia-institute-for-immuno-oncology"
+  tooltip2="Pelotonia Institute for Immuno-Oncology"
 
-{% include grid.html style="square" content=content %}
+  image3="images/funding/Ohio-State.webp"
+  link3="https://idi.osu.edu/"
+  tooltip2="Ohio State University Infectious Disease Institute"
+%}
+{:.center}
