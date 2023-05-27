@@ -3,13 +3,13 @@
 
 // colors
 [data-dark="false"] {
-  --primary: #0ea5e9;
-  --secondary: #7dd3fc;
+  --primary: #0c1e68;
+  --secondary: #3895f1;
   --text: #000000;
   --background: #ffffff;
   --background-alt: #fafafa;
   --light-gray: #e0e0e0;
-  --gray: #808080;
+  --gray: #899097;
   --overlay: #00000020;
 }
 [data-dark="true"] {
@@ -25,9 +25,9 @@
 
 :root {
   // font families
-  --title: "Barlow", sans-serif;
-  --heading: "Barlow", sans-serif;
-  --body: "Barlow", sans-serif;
+  --title: "Lato", sans-serif;
+  --heading: "Heebo", sans-serif;
+  --body: "Roboto Condensed", sans-serif;
   --code: "Roboto Mono", monospace;
 
   // font sizes
