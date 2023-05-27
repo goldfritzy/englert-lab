@@ -1,4 +1,11 @@
 ---
+title: Home
+carousels:
+  - images: 
+    - image: /images/carousel/1.webp
+    - image: /images/carousel/2.webp
+    - image: /images/carousel/3.webp
+    - image: /images/carousel/4.webp
 ---
 
 # englertlab's Website
@@ -6,6 +13,8 @@
 Studying lung mechanotransduction to identify novel therapies for ICU patients.
 
 {% include section.html %}
+
+{% include carousel.html height="40" unit="%" duration="10" number="1" %}
 
 ## Highlights
 
