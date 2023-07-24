@@ -1,6 +1,6 @@
 ---
 name: Siying Xu
-image: images/photo.jpg
+image: images/members/sxu.webp
 role: gs
 links:
   email: sarah.johnson@gmail.com

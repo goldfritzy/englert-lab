@@ -1,9 +1,9 @@
 # site properties and page defaults
-title: englertlab
+title: Englert Lab
 subtitle: 
 description: An engaging 1-3 sentence description of your lab.
-header: images/background.jpg
-footer: images/background.jpg
+header: images/banner.webp
+footer: images/banner.webp
 
 # site social media and other links
 links:

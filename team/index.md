@@ -26,16 +26,24 @@ Our work is made possible by funding from the following organizations.
 {%
   include gallery.html
 
-  image1="images/funding/nih.webp"
-  link1="https://nih.gov/"
-  tooltip1="National Institutes of Health"
+  image1="images/funding/ats.webp"
+  link1="https://www.thoracic.org/"
+  tooltip1="American Thoracic Society"
 
-  image2="images/funding/pelotonia.webp"
-  link2="https://cancer.osu.edu/for-cancer-researchers/research/research-institutes-and-centers/pelotonia-institute-for-immuno-oncology"
-  tooltip2="Pelotonia Institute for Immuno-Oncology"
+  image2="images/funding/csctr.webp"
+  link2="https://www.csctr.org"
+  tooltip2="Central Society for Clinical and Translational Research"
 
-  image3="images/funding/Ohio-State.webp"
-  link3="https://idi.osu.edu/"
-  tooltip2="Ohio State University Infectious Disease Institute"
+  image3="images/funding/feds.webp"
+  link3="https://www.defense.gov/"
+  tooltip3="The United States Department of Defense"
+
+  image4="images/funding/nhlbi.webp"
+  link4="https://www.nhlbi.nih.gov/"
+  tooltip4="National Heart, Lung, and Blood Institute"
+  
+  image5="images/funding/osucom.webp"
+  link5="https://www.medicine.osu.edu/"
+  tooltip5="The Ohio State University College of Medicine"
 %}
 {:.center}
