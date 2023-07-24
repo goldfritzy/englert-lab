@@ -3,6 +3,13 @@ title: Team
 nav:
   order: 3
   tooltip: About our team
+carousels:
+  - images: 
+    - image: /images/funding/ats.webp
+    - image: /images/funding/csctr.webp
+    - image: /images/funding/feds.webp
+    - image: /images/funding/nhlbi.webp
+    - image: /images/funding/osucom.webp
 ---
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
@@ -23,27 +30,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 Our work is made possible by funding from the following organizations.
 {:.center}
 
-{%
-  include gallery.html
 
-  image1="images/funding/ats.webp"
-  link1="https://www.thoracic.org/"
-  tooltip1="American Thoracic Society"
+{% include carousel.html height="25" unit="%" duration="10" number="1" %}
 
-  image2="images/funding/csctr.webp"
-  link2="https://www.csctr.org"
-  tooltip2="Central Society for Clinical and Translational Research"
-
-  image3="images/funding/feds.webp"
-  link3="https://www.defense.gov/"
-  tooltip3="The United States Department of Defense"
-
-  image4="images/funding/nhlbi.webp"
-  link4="https://www.nhlbi.nih.gov/"
-  tooltip4="National Heart, Lung, and Blood Institute"
-  
-  image5="images/funding/osucom.webp"
-  link5="https://www.medicine.osu.edu/"
-  tooltip5="The Ohio State University College of Medicine"
-%}
 {:.center}
