@@ -15,7 +15,6 @@
   - Samir N Ghadiali
   - Joshua A Englert
   publisher: ACS nano
-  image: ../../images/citations/1.webp
   date: '2023-08-18'
   link: https://www.ncbi.nlm.nih.gov/pubmed/37595605
   plugin: sources.py
@@ -43,7 +42,6 @@
   - Natalia Higuita-Castro
   publisher: Advanced materials (Deerfield Beach, Fla.)
   date: '2023-06-05'
-  image: ../../images/citations/2.webp
   link: https://www.ncbi.nlm.nih.gov/pubmed/37119468
   plugin: sources.py
   file: sources.yaml
@@ -142,7 +140,6 @@
   publisher: The Lancet. Respiratory medicine
   date: '2023-06-19'
   link: https://www.ncbi.nlm.nih.gov/pubmed/37348524
-  image: ../../images/citations/3.webp
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:37250794
@@ -174,7 +171,6 @@
   publisher: iScience
   date: '2023-05-06'
   link: https://www.ncbi.nlm.nih.gov/pubmed/37250794
-  image: ../../images/citations/4.webp
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:36693401
