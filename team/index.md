@@ -5,11 +5,11 @@ nav:
   tooltip: About our team
 carousels:
   - images: 
-    - image: /images/funding/ats.webp
-    - image: /images/funding/csctr.webp
-    - image: /images/funding/feds.webp
-    - image: /images/funding/nhlbi.webp
-    - image: /images/funding/osucom.webp
+    - image: /images/funding/ats_new.webp
+    - image: /images/funding/csctr_new.webp
+    - image: /images/funding/feds_new.webp
+    - image: /images/funding/nhlbi_new.webp
+    - image: /images/funding/osucom_new.webp
 ---
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
