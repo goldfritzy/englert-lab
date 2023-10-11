@@ -1119,6 +1119,7 @@
   - Augustine M K Choi
   publisher: Autophagy
   date: '2011-06-01'
+  image: ../../images/citations/42.webp
   link: https://www.ncbi.nlm.nih.gov/pubmed/21460622
   plugin: sources.py
   file: sources.yaml
@@ -1142,6 +1143,7 @@
   publisher: Nature immunology
   date: '2010-12-12'
   link: https://www.ncbi.nlm.nih.gov/pubmed/21151103
+  image: ../../images/citations/43.webp
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:16953558
@@ -1165,6 +1167,7 @@
   date: '2006-01-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/16953558
   plugin: sources.py
+  image: ../../images/citations/44.webp
   file: sources.yaml
 - id: pubmed:16382025
   title: The phase 2 enzyme inducers ethacrynic acid, DL-sulforaphane, and oltipraz
@@ -1182,6 +1185,7 @@
   publisher: The Journal of pharmacology and experimental therapeutics
   date: '2005-12-28'
   link: https://www.ncbi.nlm.nih.gov/pubmed/16382025
+  image: ../../images/citations/45.gif
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:16226725
@@ -1200,6 +1204,7 @@
   - Russell L Delude
   - Mitchell P Fink
   publisher: Biochemical pharmacology
+  image: ../../images/citations/46.webp
   date: '2005-10-13'
   link: https://www.ncbi.nlm.nih.gov/pubmed/16226725
   plugin: sources.py
@@ -1227,6 +1232,7 @@
   - Mitchell P Fink
   publisher: Intensive care medicine
   date: '2005-03-22'
+  image: ../../images/citations/47.webp
   link: https://www.ncbi.nlm.nih.gov/pubmed/15782315
   plugin: sources.py
   file: sources.yaml
@@ -1243,6 +1249,7 @@
   date: '2004-11-03'
   link: https://www.ncbi.nlm.nih.gov/pubmed/15525791
   plugin: sources.py
+  image: ../../images/citations/48.gif
   file: sources.yaml
 - id: pubmed:15614131
   title: Ethacrynic acid inhibits multiple steps in the NF-kappaB signaling pathway.
@@ -1254,5 +1261,6 @@
   publisher: Shock (Augusta, Ga.)
   date: '2005-01-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/15614131
+  image: ../../images/citations/49.webp
   plugin: sources.py
   file: sources.yaml
