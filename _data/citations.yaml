@@ -201,6 +201,7 @@
   publisher: The Lancet. Respiratory medicine
   date: '2023-01-21'
   link: https://www.ncbi.nlm.nih.gov/pubmed/36693401
+  image: ../../images/citations/5.webp
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:36682407
@@ -213,6 +214,7 @@
   publisher: Pulmonary pharmacology & therapeutics
   date: '2023-01-20'
   link: https://www.ncbi.nlm.nih.gov/pubmed/36682407
+  image: ../../images/citations/6.webp
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:36824913
@@ -266,6 +268,7 @@
   publisher: The New England journal of medicine
   date: '2023-01-21'
   link: https://www.ncbi.nlm.nih.gov/pubmed/36688507
+  image: ../../images/citations/7.webp
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:36502870
@@ -287,6 +290,7 @@
   - Megan N Ballinger
   publisher: Toxicology and applied pharmacology
   date: '2022-12-08'
+  image: ../../images/citations/8.webp
   link: https://www.ncbi.nlm.nih.gov/pubmed/36502870
   plugin: sources.py
   file: sources.yaml
@@ -309,6 +313,7 @@
   publisher: Frontiers in immunology
   date: '2022-07-26'
   link: https://www.ncbi.nlm.nih.gov/pubmed/35958610
+  image: ../../images/citations/9.webp
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:35620769
@@ -336,6 +341,7 @@
   publisher: Critical care explorations
   date: '2022-05-18'
   link: https://www.ncbi.nlm.nih.gov/pubmed/35620769
+  image: ../../images/citations/10.webp
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:35288471
@@ -356,6 +362,7 @@
   - Mireia Guerau-de-Arellano
   publisher: 'Journal of immunology (Baltimore, Md. : 1950)'
   date: '2022-03-14'
+  image: ../../images/citations/10.webp
   link: https://www.ncbi.nlm.nih.gov/pubmed/35288471
   plugin: sources.py
   file: sources.yaml
@@ -373,6 +380,7 @@
   date: '2021-03-29'
   link: https://www.ncbi.nlm.nih.gov/pubmed/33779386
   plugin: sources.py
+  image: ../../images/citations/12.webp
   file: sources.yaml
 - id: pubmed:34740873
   title: 'Syrian hamsters as a model of lung injury with SARS-CoV-2 infection: Pathologic,
@@ -401,6 +409,7 @@
   date: '2021-11-02'
   link: https://www.ncbi.nlm.nih.gov/pubmed/34740873
   plugin: sources.py
+  image: ../../images/citations/13.webp
   file: sources.yaml
 - id: pubmed:35103557
   title: 'Update on the Features and Measurements of Experimental Acute Lung Injury
@@ -458,6 +467,7 @@
   - Gutavo Matute-Bello
   publisher: American journal of respiratory cell and molecular biology
   date: '2022-02-01'
+  image: ../../images/citations/14.webp
   link: https://www.ncbi.nlm.nih.gov/pubmed/35103557
   plugin: sources.py
   file: sources.yaml
@@ -490,6 +500,7 @@
   - Joshua A Englert
   publisher: JCI insight
   date: '2021-07-22'
+  image: ../../images/citations/15.webp
   link: https://www.ncbi.nlm.nih.gov/pubmed/34138757
   plugin: sources.py
   file: sources.yaml
@@ -525,6 +536,7 @@
   date: '2021-01-12'
   link: https://www.ncbi.nlm.nih.gov/pubmed/33436554
   plugin: sources.py
+  image: ../../images/citations/16.webp
   file: sources.yaml
 - id: pubmed:33045713
   title: "PolyADP-Ribosylation of NFATc3 and NF-\u03BAB Transcription Factors Modulate\
@@ -543,6 +555,7 @@
   date: '2020-10-12'
   link: https://www.ncbi.nlm.nih.gov/pubmed/33045713
   plugin: sources.py
+  image: ../../images/citations/17.webp
   file: sources.yaml
 - id: pubmed:32404613
   title: A Novel Negative Pressure-Flow Waveform to Ventilate Lungs for Normothermic
@@ -559,6 +572,7 @@
   publisher: 'ASAIO journal (American Society for Artificial Internal Organs : 1992)'
   date: '2021-01-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/32404613
+  image: ../../images/citations/18.webp
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:32176850
@@ -591,6 +605,7 @@
   date: '2020-03-11'
   link: https://www.ncbi.nlm.nih.gov/pubmed/32159972
   plugin: sources.py
+  image: ../../images/citations/19.webp
   file: sources.yaml
 - id: pubmed:31826336
   title: Early High-Dose Vitamin D
@@ -616,6 +631,7 @@
   - Daniel Talmor
   publisher: The New England journal of medicine
   date: '2019-12-11'
+  image: ../../images/citations/20.webp
   link: https://www.ncbi.nlm.nih.gov/pubmed/31826336
   plugin: sources.py
   file: sources.yaml
@@ -640,6 +656,7 @@
   date: '2019-10-12'
   link: https://www.ncbi.nlm.nih.gov/pubmed/31606045
   plugin: sources.py
+  image: ../../images/citations/21.webp
   file: sources.yaml
 - id: pubmed:31112383
   title: Early Neuromuscular Blockade in the Acute Respiratory Distress Syndrome.
@@ -666,6 +683,7 @@
   - Derek C Angus
   publisher: The New England journal of medicine
   date: '2019-05-19'
+  image: ../../images/citations/22.webp
   link: https://www.ncbi.nlm.nih.gov/pubmed/31112383
   plugin: sources.py
   file: sources.yaml
@@ -686,6 +704,7 @@
   - John W Christman
   publisher: Allergy
   date: '2018-11-05'
+  image: ../../images/citations/23.webp
   link: https://www.ncbi.nlm.nih.gov/pubmed/30288751
   plugin: sources.py
   file: sources.yaml
@@ -706,6 +725,7 @@
   publisher: JCI insight
   date: '2019-02-21'
   link: https://www.ncbi.nlm.nih.gov/pubmed/30668546
+  image: ../../images/citations/24.webp
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:30674720
@@ -718,6 +738,7 @@
   publisher: JCI insight
   date: '2019-01-24'
   link: https://www.ncbi.nlm.nih.gov/pubmed/30674720
+  image: ../../images/citations/25.webp
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:30665420
@@ -746,6 +767,7 @@
   publisher: Respiratory research
   date: '2019-01-21'
   link: https://www.ncbi.nlm.nih.gov/pubmed/30665420
+  image: ../../images/citations/26.webp
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:30518685
@@ -787,6 +809,7 @@
   date: '2018-12-06'
   link: https://www.ncbi.nlm.nih.gov/pubmed/30518685
   plugin: sources.py
+  image: ../../images/citations/27.webp
   file: sources.yaml
 - id: pubmed:30134503
   title: 'Unhinging the machinery of sepsis: An unexpected role for vascular smooth
@@ -798,6 +821,7 @@
   publisher: Journal of leukocyte biology
   date: '2018-08-22'
   link: https://www.ncbi.nlm.nih.gov/pubmed/30134503
+  image: ../../images/citations/28.gif
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:30022742
@@ -813,6 +837,7 @@
   publisher: Infection control and hospital epidemiology
   date: '2018-07-19'
   link: https://www.ncbi.nlm.nih.gov/pubmed/30022742
+  image: ../../images/citations/29.webp
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:29957041
@@ -826,6 +851,7 @@
   link: https://www.ncbi.nlm.nih.gov/pubmed/29957041
   plugin: sources.py
   file: sources.yaml
+  image: ../../images/citations/30.gif
 - id: pubmed:29490174
   title: An Unexpected Expectoration.
   authors:
@@ -838,6 +864,7 @@
   date: '2018-03-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/29490174
   plugin: sources.py
+  image: ../../images/citations/31.webp
   file: sources.yaml
 - id: pubmed:28912466
   title: Using a Novel Microfabricated Model of the Alveolar-Capillary Barrier to
@@ -856,6 +883,7 @@
   publisher: Scientific reports
   date: '2017-09-14'
   link: https://www.ncbi.nlm.nih.gov/pubmed/28912466
+  image: ../../images/citations/32.webp
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:28570269
@@ -879,6 +907,7 @@
   publisher: JCI insight
   date: '2017-06-02'
   link: https://www.ncbi.nlm.nih.gov/pubmed/28570269
+  image: ../../images/citations/33.webp
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:28410310
@@ -906,6 +935,7 @@
   - Prabhleen Singh
   publisher: American journal of physiology. Renal physiology
   date: '2016-11-09'
+  image: ../../images/citations/34.webp
   link: https://www.ncbi.nlm.nih.gov/pubmed/28365585
   plugin: sources.py
   file: sources.yaml
@@ -925,6 +955,7 @@
   - Augustine M K Choi
   - Mark A Perrella
   publisher: American journal of respiratory cell and molecular biology
+  image: ../../images/citations/35.webp
   date: '2017-03-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/27636016
   plugin: sources.py
@@ -946,6 +977,7 @@
   - Rebecca M Baron
   - Joshua A Englert
   publisher: American journal of respiratory and critical care medicine
+  image: ../../images/citations/36.webp
   date: '2017-01-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/28035861
   plugin: sources.py
@@ -978,6 +1010,7 @@
   link: https://www.ncbi.nlm.nih.gov/pubmed/26767950
   plugin: sources.py
   file: sources.yaml
+  image: ../../images/citations/37.gif
 - id: pubmed:26068207
   title: Isoflurane Ameliorates Acute Lung Injury by Preserving Epithelial Tight Junction
     Integrity.
@@ -998,6 +1031,7 @@
   - Rebecca M Baron
   publisher: Anesthesiology
   date: '2015-08-01'
+  image: ../../images/citations/38.webp
   link: https://www.ncbi.nlm.nih.gov/pubmed/26068207
   plugin: sources.py
   file: sources.yaml
@@ -1023,6 +1057,7 @@
   publisher: Nature communications
   date: '2014-09-11'
   link: https://www.ncbi.nlm.nih.gov/pubmed/25208554
+  image: ../../images/citations/39.webp
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:22517795
@@ -1044,6 +1079,7 @@
   publisher: American journal of respiratory cell and molecular biology
   date: '2012-04-19'
   link: https://www.ncbi.nlm.nih.gov/pubmed/22517795
+  image: ../../images/citations/40.webp
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:21967897
@@ -1066,6 +1102,7 @@
   - Mark A Perrella
   publisher: 'Journal of immunology (Baltimore, Md. : 1950)'
   date: '2011-10-03'
+  image: ../../images/citations/41.webp
   link: https://www.ncbi.nlm.nih.gov/pubmed/21967897
   plugin: sources.py
   file: sources.yaml
