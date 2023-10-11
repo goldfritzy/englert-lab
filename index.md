@@ -43,7 +43,7 @@ The Englert Lab is part of the [Division of Pulmonary, Critical Care, and Sleep 
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Learn more about our current research projects at the Englert Lab!
 
 {%
   include button.html
@@ -58,7 +58,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/carousel/4.webp"
   link="projects"
   title="Our Projects"
   flip=true
@@ -68,7 +68,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Meet the team members at the Englert Lab!
 
 {%
   include button.html
@@ -83,7 +83,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/carousel/5.webp"
   link="team"
   title="Our Team"
   text=text

@@ -7,8 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Here, you can find the most up-to-date research from Dr. Englert and his research team. This page is updated regularly so be on the look out for more topics and papers!
 
 {% include section.html %}
 
