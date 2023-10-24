@@ -1,3 +1,6 @@
 # Table of contents
 
-* [Potential Future Steps](README.md)
+* [Introduction](README.md)
+* [📚 Overview](<README (1).md>)
+* [⏩ Potential Future Steps](potential-future-steps.md)
+* [🆘 Support](support.md)
