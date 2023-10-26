@@ -15,7 +15,7 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 
 [External link](https://some-website.org/)
 
-[Internal link](team)
+[Internal link](../team)
 
 _italic text_
 
