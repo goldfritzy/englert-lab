@@ -8,7 +8,7 @@ aliases:
   - J. A. Englert
   - J A Englert
 links:
-  home-page: https://janesmith.com
+  home-page: 
   orcid: 0000-0002-1257-2239
 ---
 
