@@ -14,3 +14,14 @@
 ## The Basics
 
 * [🏗 Repo Structure](the-basics/repo-structure.md)
+* [✏ Configure the Site](the-basics/configure-the-site.md)
+* [💻 Edit Pages](the-basics/edit-pages.md)
+* [✍ Write Basic Content](the-basics/write-basic-content.md)
+* [🖼 Changing the Logo](the-basics/changing-the-logo.md)
+* [🎨 Customise your Theme](the-basics/customise-your-theme.md)
+* [🧑🤝🧑 Team Members](the-basics/team-members.md)
+* [📯 Blog Posts](the-basics/blog-posts.md)
+* [📖 Citations](the-basics/citations.md)
+* [🔨 Components](the-basics/components/README.md)
+  * [Section](the-basics/components/section.md)
+  * [Figure](the-basics/components/figure.md)
