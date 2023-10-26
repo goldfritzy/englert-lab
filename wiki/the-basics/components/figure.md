@@ -5,9 +5,9 @@ description: An image with caption and link
 # Figure
 
 \
-[PREVIEW](https://greenelab.github.io/lab-website-template/testbed#figure)​
+:eye: [PREVIEW](https://greenelab.github.io/lab-website-template/testbed#figure)​
 
-```
+```liquid
 {%
     include figure.html
     image="images/group-photo.jpg"
