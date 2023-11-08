@@ -51,3 +51,7 @@
 * [🔌 Jekyll Plugins](advanced/jekyll-plugins.md)
 * [🔧 Custom Components](advanced/custom-components.md)
 * [🎓 Background Knowledge](advanced/background-knowledge.md)
+
+## Optimisation
+
+* [Image Types](optimisation/image-types.md)
