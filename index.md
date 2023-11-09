@@ -1,4 +1,5 @@
 ---
+layout: homescreen
 title: Home
 carousels:
   - images: 
@@ -11,10 +12,24 @@ carousels:
 
 # Welcome to the Englert Lab Website!
 
+<script src="_scripts/ideal-image-slider.js"></script>
+<div id="slider">
+	<img data-src="images/carousel/1.jpg">
+  <img data-src="images/carousel/2.jpg">
+  <img data-src="images/carousel/3.jpg">
+  <img data-src="images/carousel/4.jpg">
+</div>
+
+<script>
+var slider = new IdealImageSlider.Slider({
+	selector: '#slider',
+	height: 'auto', // Required but can be set by CSS
+	interval: 4000
+});
+slider.start();
+</script>
+
 Studying lung mechanotransduction to identify novel therapies for ICU patients.
-
-
-{% include carousel.html height="50" unit="%" duration="10" number="1" %}
 
 ## Highlights
 
