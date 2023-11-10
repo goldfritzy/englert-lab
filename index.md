@@ -6,9 +6,6 @@ title: Home
 
 Studying lung mechanotransduction to identify novel therapies for ICU patients.
 
-
-{% include carousel.html height="50" unit="%" duration="10" number="1" %}
-
 ## Highlights
 
 {% capture text %}
