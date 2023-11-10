@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en" data-dark="false">
   {% include homehead.html %}
@@ -6,22 +5,35 @@
     {% include header.html %}
     <script src="_scripts/ideal-image-slider.js"></script>
 <div id="slider">
-	<img src="images/carousel/1.jpg">
-  <img data-src="images/carousel/2.jpg">
-  <img data-src="images/carousel/3.jpg">
-  <img data-src="images/carousel/4.jpg">
+	<img src="images/carousel/1.webp">
+  <img data-src="images/carousel/2.webp">
+  <img data-src="images/carousel/3.webp">
+  <img data-src="images/carousel/4.webp">
+  <img data-src="images/carousel/5.webp">
 </div>
+<link rel="stylesheet" href="_styles/style.scss">
 
 <script>
 var slider = new IdealImageSlider.Slider({
 	selector: '#slider',
-	height: 'auto', // Required but can be set by CSS
+	height: 750, // Required but can be set by CSS
 	interval: 4000
 });
 slider.start();
 </script>
 
     <main>
+      <section class="hero">
+        <div class="container">
+            <div class="hero-inner">
+    <div class="hero-copy">
+                  <h1 class="hero-title mt-0">Landing template for startups</h1>
+                  <p class="hero-paragraph">Our landing page template works on all devices, so you only have to set it up once, and get beautiful results forever.</p>
+      <div class="hero-form field field-grouped"></div>
+    </div>
+    </div>
+    </div>
+    </section>
       {% include content.html content=content %}
     </main>
     {% include footer.html %}
