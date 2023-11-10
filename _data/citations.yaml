@@ -825,19 +825,6 @@
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:30022742
-  title: Trends in 'usual care' for septic shock.
-  authors:
-  - Patrick S Hume
-  - Jack Varon
-  - Joshua A Englert
-  - Shelley Hurwitz
-  - Michael Klompas
-  - Rebecca M Baron
-  - Chanu Rhee
-  publisher: Infection control and hospital epidemiology
-  date: '2018-07-19'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/30022742
-  image: ../../images/citations/29.webp
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:29957041
