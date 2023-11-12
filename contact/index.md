@@ -5,10 +5,9 @@ nav:
   tooltip: Email, address, and location
 ---
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
-## Interested in our Lab?
 
-
-Dr. Englert is can be contacted at his email or through Twitter.
+# Interested in our Lab?
+We are looking for highly motivated individuals at all levels to join our collaborative and multidisciplinary team.  Interested candidates at the post-doctoral, graduate student, and undergraduate levels can send their CV and letter of interest to Dr. Englert.
 
 {%
   include button.html

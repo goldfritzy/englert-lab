@@ -1,26 +1,26 @@
 - title: Targeting mTORC1 activation during lung injury
   group: featured
-  image: images/photo.jpg
+  image: images/projects/mtor.webp
   link: ../projects/mtorc1.html
   description:  Discovering mTORC1's role as a mechanosensor in lung injury during ventilation. Reshaping respiratory medicine.
 
 
 - title: Nanoparticle drug delivery for ARDS
   group: featured
-  image: images/photo.jpg
+  image: images/projects/nano.webp
   link: ../projects/npards.html
   description: Prior ARDS trials used systemic delivery but didn't succeed. Our inhaled lipid nanoparticles with miR-146a prevent lung injury in mechanosensitive lung macrophages.
 
 - title: Zinc metabolism in ARDS
   group: featured
-  image: images/photo.jpg
+  image: images/projects/znards.webp
   link: ../projects/zmards.html
   description: Zinc deficiency increases lung injury risk during ventilation. Our study with 650 ICU patients may lead to a clinical trial for ARDS zinc supplementation.
 
 
 - title: Translation studies of critically-ill ICU patients
   group: featured
-  image: images/photo.jpg
+  image: images/projects/transstudy.webp
   link: ../projects/icu.html
   description: Dr. Englert collaborates on biorepositories, investigating ARDS mechanisms in diverse patient groups and participating in 30+ ICU clinical trials.
 
