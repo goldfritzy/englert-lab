@@ -1,20 +1,7 @@
 ---
 title: Home
-carousels:
-  - images: 
-    - image: /images/carousel/1.webp
-    - image: /images/carousel/2.webp
-    - image: /images/carousel/3.webp
-    - image: /images/carousel/4.webp
-    - image: /images/carousel/5.webp
+layout: home
 ---
-
-# Welcome to the Englert Lab Website!
-
-Studying lung mechanotransduction to identify novel therapies for ICU patients.
-
-
-{% include carousel.html height="50" unit="%" duration="10" number="1" %}
 
 ## Highlights
 
